@@ -1,0 +1,12 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LCD2X16")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LCD2X16.kicad_sym")(options "")(descr ""))
+  (lib (name "JUMPER3")(type "KiCad")(uri "${KIPRJMOD}/Symbols/TSW-101-26-S-T.kicad_sym")(options "")(descr ""))
+  (lib (name "Female_Headers")(type "KiCad")(uri "${KIPRJMOD}/6130XX11821_61300811821/6130XX11821_61300811821.kicad_sym")(options "")(descr ""))
+  (lib (name "FSM8JH")(type "KiCad")(uri "${KIPRJMOD}/FSM8JH/FSM8JH.kicad_sym")(options "")(descr ""))
+  (lib (name "SC56-11SRWA")(type "KiCad")(uri "${KIPRJMOD}/SC56-11SRWA/SC56-11SRWA.kicad_sym")(options "")(descr ""))
+  (lib (name "TSW-102-09-G-S")(type "KiCad")(uri "${KIPRJMOD}/Conectores/TSW-102-09-G-S.kicad_sym")(options "")(descr ""))
+  (lib (name "TSW-103-17-T-D")(type "KiCad")(uri "${KIPRJMOD}/Conectores/TSW-103-17-T-D.kicad_sym")(options "")(descr ""))
+  (lib (name "TB010-508-02BE")(type "KiCad")(uri "${KIPRJMOD}/TB010-508-02BE/TB010-508-02BE.kicad_sym")(options "")(descr ""))
+  (lib (name "TL59NF160Q")(type "KiCad")(uri "${KIPRJMOD}/TL59NF160Q/TL59NF160Q.kicad_sym")(options "")(descr ""))
+)
