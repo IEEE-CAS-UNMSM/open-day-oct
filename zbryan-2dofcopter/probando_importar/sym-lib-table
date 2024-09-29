@@ -1,5 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "XR2206CP-F")(type "KiCad")(uri "${KIPRJMOD}/XR2206CP-F/XR2206CP-F.kicad_sym")(options "")(descr ""))
-  (lib (name "TS-103-T-A-1")(type "KiCad")(uri "${KIPRJMOD}/TS-103-T-A-1 (1)/TS-103-T-A-1.kicad_sym")(options "")(descr ""))
-)
