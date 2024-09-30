@@ -5710,7 +5710,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 64.77 148.59 0)
+		(at 105.41 139.7 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5720,7 +5720,7 @@
 		)
 		(uuid "af9ef9e8-4b87-4c37-ad0e-b6d0cd3a482d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.6257 148.59 0)
+			(at 112.2657 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5754,7 +5754,7 @@
 	)
 	(global_label "Vcc"
 		(shape input)
-		(at 64.77 146.05 0)
+		(at 105.41 137.16 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5764,7 +5764,7 @@
 		)
 		(uuid "d171d8b4-908e-424e-979c-a49f000a135a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.021 146.05 0)
+			(at 111.661 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6979,7 +6979,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Screw_Terminal_01x02")
-		(at 59.69 148.59 180)
+		(at 100.33 139.7 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6988,7 +6988,7 @@
 		(fields_autoplaced yes)
 		(uuid "4895ed3e-3a8d-4754-92e9-6478c41a3a4e")
 		(property "Reference" "J1"
-			(at 59.69 139.7 0)
+			(at 100.33 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6996,7 +6996,7 @@
 			)
 		)
 		(property "Value" "Screw_Terminal_01x02"
-			(at 59.69 142.24 0)
+			(at 100.33 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7004,7 +7004,7 @@
 			)
 		)
 		(property "Footprint" "TerminalBlock:TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal"
-			(at 59.69 148.59 0)
+			(at 100.33 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7013,7 +7013,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 59.69 148.59 0)
+			(at 100.33 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7022,7 +7022,7 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 59.69 148.59 0)
+			(at 100.33 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
