@@ -1157,6 +1157,12 @@
 		(uuid "0528098c-6470-4682-a603-ffa175e5cf2f")
 	)
 	(junction
+		(at 101.6 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "07e431d6-2dac-43f9-bd80-9d6388e9205e")
+	)
+	(junction
 		(at 240.03 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1227,6 +1233,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5f84c51-3ab0-49e2-bdef-6bccee5a958f")
+	)
+	(junction
+		(at 100.33 165.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a6f888b0-d178-425c-b269-8bba954c55f1")
 	)
 	(junction
 		(at 154.94 139.7)
@@ -1485,6 +1497,16 @@
 			(type default)
 		)
 		(uuid "1dcb400d-05c7-40e9-9e5d-91152122ae14")
+	)
+	(wire
+		(pts
+			(xy 100.33 165.1) (xy 104.14 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e6ffb32-17f1-4940-b0db-29ad8d48c0bf")
 	)
 	(wire
 		(pts
@@ -2185,6 +2207,16 @@
 			(type default)
 		)
 		(uuid "a267a370-514d-4166-828d-896a6bca738f")
+	)
+	(wire
+		(pts
+			(xy 104.14 167.64) (xy 101.6 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a453011d-0036-4b5f-951e-3ae9433a809e")
 	)
 	(wire
 		(pts
@@ -6161,6 +6193,76 @@
 			(project "Operadores"
 				(path "/e05284b5-5616-4f53-ba8f-57e211b0d4e3"
 					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 109.22 165.1 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c8167a92-fefb-43e3-a2ec-51f312ca3ba3")
+		(property "Reference" "J8"
+			(at 110.49 167.6401 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 110.49 165.1001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 109.22 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 109.22 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 109.22 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6d62dbf5-b1bb-4843-9441-20170c0cd8b0")
+		)
+		(pin "2"
+			(uuid "6e046d91-16c3-414e-ae73-a05f4a22bd99")
+		)
+		(instances
+			(project "Operadores"
+				(path "/e05284b5-5616-4f53-ba8f-57e211b0d4e3"
+					(reference "J8")
 					(unit 1)
 				)
 			)

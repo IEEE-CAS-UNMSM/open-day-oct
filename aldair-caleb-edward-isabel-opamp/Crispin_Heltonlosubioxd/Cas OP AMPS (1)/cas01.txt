@@ -1,0 +1,55 @@
+Info: Procesando el símbolo 'C1:Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm'.
+Info: Procesando el símbolo 'R9:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'C2:Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm'.
+Info: Procesando el símbolo 'R10:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'J1:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R11:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'J2:Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R12:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'J3:Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R13:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'RV1:Potentiometer_THT:Potentiometer_Alps_RK09Y11_Single_Horizontal'.
+Info: Procesando el símbolo 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'RV2:Potentiometer_THT:Potentiometer_Alps_RK09Y11_Single_Horizontal'.
+Info: Procesando el símbolo 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'U1:Package_DIP:DIP-8_W7.62mm'.
+Info: Procesando el símbolo 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'U2:Package_DIP:DIP-8_W7.62mm'.
+Info: Procesando el símbolo 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'U3:Package_DIP:DIP-8_W7.62mm'.
+Info: Procesando el símbolo 'R6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'U4:Package_DIP:DIP-8_W7.62mm'.
+Info: Procesando el símbolo 'R7:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'U5:Package_DIP:DIP-8_W7.62mm'.
+Info: Procesando el símbolo 'R8:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'U6:Package_DIP:DIP-8_W7.62mm'.
+Agregar C1 (huella 'Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm').
+Agregar C2 (huella 'Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm').
+Agregar J1 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical').
+Agregar J2 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical').
+Agregar J3 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical').
+Agregar R1 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Agregar R2 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Agregar R3 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Agregar R4 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Agregar R5 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Agregar R6 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Agregar R7 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Agregar R8 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Agregar RV2 (huella 'Potentiometer_THT:Potentiometer_Alps_RK09Y11_Single_Horizontal').
+Agregar R12 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Agregar U1 (huella 'Package_DIP:DIP-8_W7.62mm').
+Agregar R9 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Agregar U2 (huella 'Package_DIP:DIP-8_W7.62mm').
+Agregar R13 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Agregar U3 (huella 'Package_DIP:DIP-8_W7.62mm').
+Agregar R11 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Agregar U4 (huella 'Package_DIP:DIP-8_W7.62mm').
+Agregar RV1 (huella 'Potentiometer_THT:Potentiometer_Alps_RK09Y11_Single_Horizontal').
+Agregar U5 (huella 'Package_DIP:DIP-8_W7.62mm').
+Agregar R10 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Agregar U6 (huella 'Package_DIP:DIP-8_W7.62mm').
+
+
+Info: Número de avisos: 0, errores: 0.

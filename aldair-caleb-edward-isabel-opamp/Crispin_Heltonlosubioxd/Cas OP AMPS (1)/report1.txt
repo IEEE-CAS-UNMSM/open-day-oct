@@ -1,0 +1,347 @@
+Info: Procesando el símbolo 'C1:Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm'.
+Info: Procesando el símbolo 'R4:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Procesando el símbolo 'R8:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Procesando el símbolo 'R7:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Procesando el símbolo 'R5:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Procesando el símbolo 'R9:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Procesando el símbolo 'R13:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Procesando el símbolo 'R12:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Procesando el símbolo 'R6:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Procesando el símbolo 'R10:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Procesando el símbolo 'R11:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Procesando el símbolo 'R2:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Procesando el símbolo 'R1:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Procesando el símbolo 'C2:Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm'.
+Info: Procesando el símbolo 'R3:Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal'.
+Info: Procesando el símbolo 'RV1:Potentiometer_THT:Potentiometer_Alps_RK09Y11_Single_Horizontal'.
+Info: Procesando el símbolo 'RV2:Potentiometer_THT:Potentiometer_Alps_RK09Y11_Single_Horizontal'.
+Info: Procesando el símbolo 'SW2:Button_Switch_SMD:SW_DIP_SPSTx04_Slide_6.7x11.72mm_W8.61mm_P2.54mm_LowProfile'.
+Info: Procesando el símbolo 'U1:Package_DIP:DIP-8_W7.62mm'.
+Info: Procesando el símbolo 'U2:Package_DIP:DIP-8_W7.62mm'.
+Info: Procesando el símbolo 'U3:Package_DIP:DIP-8_W7.62mm'.
+Info: Procesando el símbolo 'U4:Package_DIP:DIP-8_W7.62mm'.
+Info: Procesando el símbolo 'U5:Package_DIP:DIP-8_W7.62mm'.
+Info: Procesando el símbolo 'U6:Package_DIP:DIP-8_W7.62mm'.
+C1 pin 1 conectado a Net-(U1--).
+Agregar red Earth.
+C1 pin 2 conectado a Earth.
+Agregado C2 (huella 'Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm').
+Indicador de referencia cambiado de REF** a C2.
+Valor C2 cambiado de C_Disc_D7.0mm_W2.5mm_P5.00mm a 0.2uF.
+Asociación de símbolos C2 actualizada de  a /f23729c6-a9ec-4da3-87b4-7abb515d42ce.
+Actualizar campos C2.
+Se actualizó el nombre de la hoja C2 a 'Raíz'.
+Se actualizó el archivo de hoja C2 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de C2 a 'C_*'.
+Agregar red Net-(U3--).
+C2 pin 2 conectado a Net-(U3--).
+Agregar red Net-(C2-Pad1).
+C2 pin 1 conectado a Net-(C2-Pad1).
+Agregado R1 (huella 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Indicador de referencia cambiado de REF** a R1.
+Valor R1 cambiado de R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal a 20K.
+Asociación de símbolos R1 actualizada de  a /a3ca102e-bed5-451b-9c47-734d478ef82f.
+Actualizar campos R1.
+Se actualizó el nombre de la hoja R1 a 'Raíz'.
+Se actualizó el archivo de hoja R1 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de R1 a 'R_*'.
+R1 pin 1 conectado a Earth.
+Agregar red Net-(U1-+).
+R1 pin 2 conectado a Net-(U1-+).
+Agregado R2 (huella 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Indicador de referencia cambiado de REF** a R2.
+Valor R2 cambiado de R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal a 100K.
+Asociación de símbolos R2 actualizada de  a /821a5a85-371f-4752-a55e-9b42eb0015a3.
+Actualizar campos R2.
+Se actualizó el nombre de la hoja R2 a 'Raíz'.
+Se actualizó el archivo de hoja R2 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de R2 a 'R_*'.
+Agregar red Net-(R2-Pad1).
+R2 pin 1 conectado a Net-(R2-Pad1).
+R2 pin 2 conectado a Net-(U1-+).
+Agregado R3 (huella 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Indicador de referencia cambiado de REF** a R3.
+Valor R3 cambiado de R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal a 4.7K.
+Asociación de símbolos R3 actualizada de  a /a6f18230-7d0b-4dcf-9e4d-f0f28b581372.
+Actualizar campos R3.
+Se actualizó el nombre de la hoja R3 a 'Raíz'.
+Se actualizó el archivo de hoja R3 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de R3 a 'R_*'.
+R3 pin 1 conectado a Net-(R2-Pad1).
+R3 pin 2 conectado a Earth.
+Agregado R4 (huella 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Indicador de referencia cambiado de REF** a R4.
+Valor R4 cambiado de R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal a 100.
+Asociación de símbolos R4 actualizada de  a /8bdeae0f-2f2d-4778-ba43-7a0291cb7b5e.
+Actualizar campos R4.
+Se actualizó el nombre de la hoja R4 a 'Raíz'.
+Se actualizó el archivo de hoja R4 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de R4 a 'R_*'.
+R4 pin 1 conectado a Net-(R2-Pad1).
+Agregar red Net-(R4-Pad2).
+R4 pin 2 conectado a Net-(R4-Pad2).
+Agregado R5 (huella 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Indicador de referencia cambiado de REF** a R5.
+Valor R5 cambiado de R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal a 4.7K.
+Asociación de símbolos R5 actualizada de  a /8ad2ba95-ee4d-4bdb-81df-7ccfad80e48f.
+Actualizar campos R5.
+Se actualizó el nombre de la hoja R5 a 'Raíz'.
+Se actualizó el archivo de hoja R5 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de R5 a 'R_*'.
+R5 pin 2 conectado a Earth.
+Agregar red Net-(U2--).
+R5 pin 1 conectado a Net-(U2--).
+Agregado R6 (huella 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Indicador de referencia cambiado de REF** a R6.
+Valor R6 cambiado de R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal a 30K.
+Asociación de símbolos R6 actualizada de  a /e26f4747-5a29-4f3c-be6c-7f2fbaca1b43.
+Actualizar campos R6.
+Se actualizó el nombre de la hoja R6 a 'Raíz'.
+Se actualizó el archivo de hoja R6 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de R6 a 'R_*'.
+R6 pin 1 conectado a Net-(U3--).
+R6 pin 2 conectado a Net-(U2--).
+Agregado R7 (huella 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Indicador de referencia cambiado de REF** a R7.
+Valor R7 cambiado de R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal a 100k.
+Asociación de símbolos R7 actualizada de  a /6bdccd93-d176-4878-b2b1-4cedc180de1c.
+Actualizar campos R7.
+Se actualizó el nombre de la hoja R7 a 'Raíz'.
+Se actualizó el archivo de hoja R7 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de R7 a 'R_*'.
+R7 pin 2 conectado a Earth.
+Agregar red Net-(U3-+).
+R7 pin 1 conectado a Net-(U3-+).
+Agregado R8 (huella 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Indicador de referencia cambiado de REF** a R8.
+Valor R8 cambiado de R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal a 4.7k.
+Asociación de símbolos R8 actualizada de  a /065a3065-112f-41d8-9ccb-2791ddd4f039.
+Actualizar campos R8.
+Se actualizó el nombre de la hoja R8 a 'Raíz'.
+Se actualizó el archivo de hoja R8 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de R8 a 'R_*'.
+R8 pin 1 conectado a Net-(C2-Pad1).
+R8 pin 2 conectado a Earth.
+Agregado R9 (huella 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Indicador de referencia cambiado de REF** a R9.
+Valor R9 cambiado de R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal a 100K.
+Asociación de símbolos R9 actualizada de  a /d96b9b66-283e-499f-b71a-956277becc92.
+Actualizar campos R9.
+Se actualizó el nombre de la hoja R9 a 'Raíz'.
+Se actualizó el archivo de hoja R9 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de R9 a 'R_*'.
+R9 pin 2 conectado a Net-(C2-Pad1).
+R9 pin 1 conectado a Net-(U3--).
+Agregado R10 (huella 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Indicador de referencia cambiado de REF** a R10.
+Valor R10 cambiado de R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal a 4.7k.
+Asociación de símbolos R10 actualizada de  a /41c94b46-e844-4b04-8443-bee6272b211a.
+Actualizar campos R10.
+Se actualizó el nombre de la hoja R10 a 'Raíz'.
+Se actualizó el archivo de hoja R10 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de R10 a 'R_*'.
+Agregar red Net-(U5--).
+R10 pin 1 conectado a Net-(U5--).
+Agregar red Net-(U4--).
+R10 pin 2 conectado a Net-(U4--).
+Agregado R11 (huella 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Indicador de referencia cambiado de REF** a R11.
+Valor R11 cambiado de R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal a 10k.
+Asociación de símbolos R11 actualizada de  a /bc50415a-3750-4959-9384-9e9e5fb8c445.
+Actualizar campos R11.
+Se actualizó el nombre de la hoja R11 a 'Raíz'.
+Se actualizó el archivo de hoja R11 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de R11 a 'R_*'.
+R11 pin 2 conectado a Net-(U5--).
+Agregar red Net-(U5-+).
+R11 pin 1 conectado a Net-(U5-+).
+Agregado R12 (huella 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Indicador de referencia cambiado de REF** a R12.
+Valor R12 cambiado de R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal a 1k.
+Asociación de símbolos R12 actualizada de  a /47faf20b-2b19-4f7d-9fa0-3bcb8bcd3e29.
+Actualizar campos R12.
+Se actualizó el nombre de la hoja R12 a 'Raíz'.
+Se actualizó el archivo de hoja R12 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de R12 a 'R_*'.
+R12 pin 2 conectado a Net-(U5-+).
+Agregar red Net-(R12-Pad1).
+R12 pin 1 conectado a Net-(R12-Pad1).
+Agregado R13 (huella 'Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal').
+Indicador de referencia cambiado de REF** a R13.
+Valor R13 cambiado de R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal a 1k.
+Asociación de símbolos R13 actualizada de  a /77939e35-d11b-470a-911d-23654930b780.
+Actualizar campos R13.
+Se actualizó el nombre de la hoja R13 a 'Raíz'.
+Se actualizó el archivo de hoja R13 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de R13 a 'R_*'.
+Agregar red Net-(U6--).
+R13 pin 2 conectado a Net-(U6--).
+Agregar red Net-(R13-Pad1).
+R13 pin 1 conectado a Net-(R13-Pad1).
+Agregado C1 (huella 'Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm').
+Agregado RV1 (huella 'Potentiometer_THT:Potentiometer_Alps_RK09Y11_Single_Horizontal').
+Indicador de referencia cambiado de REF** a RV1.
+Valor RV1 cambiado de Potentiometer_Alps_RK09Y11_Single_Horizontal a 100K.
+Asociación de símbolos RV1 actualizada de  a /64437c50-e9b0-457e-a980-bd30bb3de509.
+Actualizar campos RV1.
+Se actualizó el nombre de la hoja RV1 a 'Raíz'.
+Se actualizó el archivo de hoja RV1 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de RV1 a 'Potentiometer*'.
+RV1 pin 2 conectado a Net-(U1--).
+RV1 pin 1 conectado a Net-(R4-Pad2).
+RV1 pin 3 conectado a Net-(U1--).
+Indicador de referencia cambiado de REF** a C1.
+Agregado RV2 (huella 'Potentiometer_THT:Potentiometer_Alps_RK09Y11_Single_Horizontal').
+Indicador de referencia cambiado de REF** a RV2.
+Valor RV2 cambiado de Potentiometer_Alps_RK09Y11_Single_Horizontal a 100k.
+Asociación de símbolos RV2 actualizada de  a /e03ddf07-4c46-4177-aa4d-52aa46d31794.
+Actualizar campos RV2.
+Se actualizó el nombre de la hoja RV2 a 'Raíz'.
+Se actualizó el archivo de hoja RV2 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de RV2 a 'Potentiometer*'.
+RV2 pin 1 conectado a Net-(U6--).
+RV2 pin 3 conectado a Net-(R12-Pad1).
+RV2 pin 2 conectado a Net-(U6--).
+Valor C1 cambiado de C_Disc_D7.0mm_W2.5mm_P5.00mm a 1uF.
+Agregado SW2 (huella 'Button_Switch_SMD:SW_DIP_SPSTx04_Slide_6.7x11.72mm_W8.61mm_P2.54mm_LowProfile').
+Indicador de referencia cambiado de REF** a SW2.
+Valor SW2 cambiado de SW_DIP_SPSTx04_Slide_6.7x11.72mm_W8.61mm_P2.54mm_LowProfile a SW_DP3T.
+Asociación de símbolos SW2 actualizada de  a /f2afda51-b678-494a-806c-002393bda80a.
+Actualizar campos SW2.
+Se actualizó el nombre de la hoja SW2 a 'Raíz'.
+Se actualizó el archivo de hoja SW2 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de SW2 a 'SW* DP3T*'.
+SW2 pin 2 conectado a Net-(U2--).
+Agregar red Net-(U4-+).
+SW2 pin 3 conectado a Net-(U4-+).
+SW2 pin 4 conectado a Net-(C2-Pad1).
+SW2 pin 1 conectado a Net-(R2-Pad1).
+Asociación de símbolos C1 actualizada de  a /67b0d71e-5a4f-4c91-8063-b56bd1453f17.
+Agregado U1 (huella 'Package_DIP:DIP-8_W7.62mm').
+Indicador de referencia cambiado de REF** a U1.
+Valor U1 cambiado de DIP-8_W7.62mm a LM741.
+Asociación de símbolos U1 actualizada de  a /9667ce5b-7a3a-4e78-8c7c-46041f25c8db.
+Actualizar campos U1.
+Se actualizó el nombre de la hoja U1 a 'Raíz'.
+Se actualizó el archivo de hoja U1 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de U1 a 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*'.
+Agregar red +12.
+U1 pin 7 conectado a +12.
+Agregar red -12.
+U1 pin 4 conectado a -12.
+U1 pin 6 conectado a Net-(R2-Pad1).
+Agregar red unconnected-(U1-NC-Pad8).
+U1 pin 8 conectado a unconnected-(U1-NC-Pad8).
+U1 pin 3 conectado a Net-(U1-+).
+U1 pin 2 conectado a Net-(U1--).
+Agregar red unconnected-(U1-NULL-Pad1).
+U1 pin 1 conectado a unconnected-(U1-NULL-Pad1).
+Agregar red unconnected-(U1-NULL-Pad5).
+U1 pin 5 conectado a unconnected-(U1-NULL-Pad5).
+Actualizar campos C1.
+Agregado U2 (huella 'Package_DIP:DIP-8_W7.62mm').
+Indicador de referencia cambiado de REF** a U2.
+Valor U2 cambiado de DIP-8_W7.62mm a LM741.
+Asociación de símbolos U2 actualizada de  a /0df6c8dc-6a45-4ee5-9130-ec2afd1bcdb0.
+Actualizar campos U2.
+Se actualizó el nombre de la hoja U2 a 'Raíz'.
+Se actualizó el archivo de hoja U2 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de U2 a 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*'.
+U2 pin 3 conectado a Net-(U1--).
+Agregar red unconnected-(U2-NC-Pad8).
+U2 pin 8 conectado a unconnected-(U2-NC-Pad8).
+Agregar red unconnected-(U2-NULL-Pad5).
+U2 pin 5 conectado a unconnected-(U2-NULL-Pad5).
+Agregar red unconnected-(U2-NULL-Pad1).
+U2 pin 1 conectado a unconnected-(U2-NULL-Pad1).
+U2 pin 4 conectado a -12.
+U2 pin 2 conectado a Net-(U2--).
+U2 pin 6 conectado a Net-(U2--).
+U2 pin 7 conectado a +12.
+Se actualizó el nombre de la hoja C1 a 'Raíz'.
+Agregado U3 (huella 'Package_DIP:DIP-8_W7.62mm').
+Indicador de referencia cambiado de REF** a U3.
+Valor U3 cambiado de DIP-8_W7.62mm a LM741.
+Asociación de símbolos U3 actualizada de  a /628f3682-aec1-4b45-8ec9-ed57782638c3.
+Actualizar campos U3.
+Se actualizó el nombre de la hoja U3 a 'Raíz'.
+Se actualizó el archivo de hoja U3 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de U3 a 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*'.
+Agregar red unconnected-(U3-NULL-Pad5).
+U3 pin 5 conectado a unconnected-(U3-NULL-Pad5).
+U3 pin 2 conectado a Net-(U3--).
+U3 pin 3 conectado a Net-(U3-+).
+U3 pin 7 conectado a +12.
+U3 pin 4 conectado a -12.
+Agregar red unconnected-(U3-NC-Pad8).
+U3 pin 8 conectado a unconnected-(U3-NC-Pad8).
+U3 pin 6 conectado a Net-(C2-Pad1).
+Agregar red unconnected-(U3-NULL-Pad1).
+U3 pin 1 conectado a unconnected-(U3-NULL-Pad1).
+Se actualizó el archivo de hoja C1 a 'Cas OP AMPS.kicad_sch'.
+Agregado U4 (huella 'Package_DIP:DIP-8_W7.62mm').
+Indicador de referencia cambiado de REF** a U4.
+Valor U4 cambiado de DIP-8_W7.62mm a LM741.
+Asociación de símbolos U4 actualizada de  a /3ccfbeec-0f4a-4643-aded-969dfec9376d.
+Actualizar campos U4.
+Se actualizó el nombre de la hoja U4 a 'Raíz'.
+Se actualizó el archivo de hoja U4 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de U4 a 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*'.
+Agregar red unconnected-(U4-NULL-Pad1).
+U4 pin 1 conectado a unconnected-(U4-NULL-Pad1).
+U4 pin 6 conectado a Net-(U4--).
+U4 pin 2 conectado a Net-(U4--).
+Agregar red unconnected-(U4-NC-Pad8).
+U4 pin 8 conectado a unconnected-(U4-NC-Pad8).
+U4 pin 7 conectado a +12.
+U4 pin 4 conectado a -12.
+U4 pin 3 conectado a Net-(U4-+).
+Agregar red unconnected-(U4-NULL-Pad5).
+U4 pin 5 conectado a unconnected-(U4-NULL-Pad5).
+Se actualizaron los filtros de huella de C1 a 'C_*'.
+Agregado U5 (huella 'Package_DIP:DIP-8_W7.62mm').
+Indicador de referencia cambiado de REF** a U5.
+Valor U5 cambiado de DIP-8_W7.62mm a LM741.
+Asociación de símbolos U5 actualizada de  a /fc0306be-42ef-4f69-ab21-d68bf78c2eb7.
+Actualizar campos U5.
+Se actualizó el nombre de la hoja U5 a 'Raíz'.
+Se actualizó el archivo de hoja U5 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de U5 a 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*'.
+U5 pin 4 conectado a -12.
+U5 pin 6 conectado a Net-(U5-+).
+Agregar red unconnected-(U5-NULL-Pad1).
+U5 pin 1 conectado a unconnected-(U5-NULL-Pad1).
+U5 pin 2 conectado a Net-(U5--).
+U5 pin 3 conectado a Net-(U5-+).
+Agregar red unconnected-(U5-NULL-Pad5).
+U5 pin 5 conectado a unconnected-(U5-NULL-Pad5).
+U5 pin 7 conectado a +12.
+Agregar red unconnected-(U5-NC-Pad8).
+U5 pin 8 conectado a unconnected-(U5-NC-Pad8).
+Agregar red Net-(U1--).
+Agregado U6 (huella 'Package_DIP:DIP-8_W7.62mm').
+Indicador de referencia cambiado de REF** a U6.
+Valor U6 cambiado de DIP-8_W7.62mm a LM741.
+Asociación de símbolos U6 actualizada de  a /72aceb9e-a682-4592-8a05-4b1eeb625ec5.
+Actualizar campos U6.
+Se actualizó el nombre de la hoja U6 a 'Raíz'.
+Se actualizó el archivo de hoja U6 a 'Cas OP AMPS.kicad_sch'.
+Se actualizaron los filtros de huella de U6 a 'SOIC*3.9x4.9mm*P1.27mm* DIP*W7.62mm* TSSOP*3x3mm*P0.65mm*'.
+U6 pin 2 conectado a Net-(U6--).
+U6 pin 4 conectado a -12.
+U6 pin 7 conectado a +12.
+Agregar red unconnected-(U6-NULL-Pad1).
+U6 pin 1 conectado a unconnected-(U6-NULL-Pad1).
+Agregar red unconnected-(U6-NC-Pad8).
+U6 pin 8 conectado a unconnected-(U6-NC-Pad8).
+U6 pin 6 conectado a Net-(R13-Pad1).
+Agregar red unconnected-(U6-NULL-Pad5).
+U6 pin 5 conectado a unconnected-(U6-NULL-Pad5).
+U6 pin 3 conectado a Earth.
+Aviso: No se encontró red para el componente SW2 pad 7 (no hay pin 7 en el símbolo).
+Aviso: No se encontró red para el componente SW2 pad 6 (no hay pin 6 en el símbolo).
+Aviso: No se encontró red para el componente SW2 pad 5 (no hay pin 5 en el símbolo).
+Aviso: No se encontró red para el componente SW2 pad 8 (no hay pin 8 en el símbolo).
+
+
+Info: Número de avisos: 4, errores: 0.
