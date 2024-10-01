@@ -179,7 +179,8 @@
       ],
       "track_widths": [
         0.0,
-        0.5
+        0.6,
+        0.8
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -445,7 +446,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "CONFIGURACIÓN MONOSTABLE K.kicad_pro",
+    "filename": "Amplificador_D.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -482,7 +483,7 @@
       "netlist": "",
       "plot": "",
       "pos_files": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "Amplificador_D.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
@@ -547,7 +548,7 @@
       "group_symbols": true,
       "name": "Grouped By Value",
       "sort_asc": true,
-      "sort_field": "Reference"
+      "sort_field": "Referencia"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -590,8 +591,8 @@
   },
   "sheets": [
     [
-      "be3833bb-f8f5-4871-af1a-91fc2579cd6e",
-      "Root"
+      "c606fc78-5422-4d38-a5f7-a430b8234609",
+      "Raíz"
     ]
   ],
   "text_variables": {}

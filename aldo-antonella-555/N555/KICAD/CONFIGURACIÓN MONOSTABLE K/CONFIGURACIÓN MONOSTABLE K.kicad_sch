@@ -1770,6 +1770,12 @@
 		(uuid "3700a561-2c1f-4379-974b-242a31135e50")
 	)
 	(junction
+		(at 123.19 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a2069de-4cf4-49f9-98f9-29e50e08ffc1")
+	)
+	(junction
 		(at 156.21 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1782,16 +1788,10 @@
 		(uuid "493be0ed-e68a-4406-9c9c-7e459dc19175")
 	)
 	(junction
-		(at 124.46 46.99)
+		(at 123.19 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "51a8c801-dd51-4b5f-8b84-eb1edcd23b04")
-	)
-	(junction
-		(at 124.46 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "599b3b65-277e-4875-8c2d-a2d0d874d916")
+		(uuid "6ad72175-becd-475a-829b-41fa00dd8adb")
 	)
 	(junction
 		(at 137.16 81.28)
@@ -1836,22 +1836,10 @@
 		(uuid "ab5076af-7793-4434-a644-27619e02e792")
 	)
 	(junction
-		(at 124.46 57.15)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ac41e3d3-d8d7-4ba0-b016-b3df19c9ca6e")
-	)
-	(junction
 		(at 161.29 130.81)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b19b325a-406a-418a-92b2-99a2e8956594")
-	)
-	(junction
-		(at 124.46 39.37)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cbd31a5f-8a65-4965-97a8-1eb8f975bc03")
 	)
 	(junction
 		(at 135.89 143.51)
@@ -1865,13 +1853,9 @@
 		(color 0 0 0 0)
 		(uuid "fd89b6a8-3056-4556-89ba-a3dd9af772f7")
 	)
-	(no_connect
-		(at 123.19 123.19)
-		(uuid "a1e7a582-f0bf-4d04-947a-7bafaa5b4b80")
-	)
 	(wire
 		(pts
-			(xy 124.46 46.99) (xy 124.46 39.37)
+			(xy 123.19 46.99) (xy 123.19 39.37)
 		)
 		(stroke
 			(width 0)
@@ -1941,7 +1925,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 39.37) (xy 124.46 38.1)
+			(xy 123.19 39.37) (xy 123.19 38.1)
 		)
 		(stroke
 			(width 0)
@@ -2031,6 +2015,16 @@
 	)
 	(wire
 		(pts
+			(xy 120.65 123.19) (xy 120.65 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d7d7d84-9051-43b1-bc21-346384effea4")
+	)
+	(wire
+		(pts
 			(xy 124.46 57.15) (xy 120.65 57.15)
 		)
 		(stroke
@@ -2091,7 +2085,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 52.07) (xy 124.46 46.99)
+			(xy 123.19 46.99) (xy 123.19 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2211,7 +2205,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 39.37) (xy 124.46 39.37)
+			(xy 113.03 39.37) (xy 123.19 39.37)
 		)
 		(stroke
 			(width 0)
@@ -2291,16 +2285,6 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 57.15) (xy 124.46 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ab696db-5517-44c1-b447-db8947a4e5c1")
-	)
-	(wire
-		(pts
 			(xy 73.66 43.18) (xy 73.66 48.26)
 		)
 		(stroke
@@ -2308,6 +2292,16 @@
 			(type default)
 		)
 		(uuid "9dbf09cf-50ff-43da-8bdc-923d5d0475af")
+	)
+	(wire
+		(pts
+			(xy 123.19 62.23) (xy 124.46 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dc45e4e-06c8-4666-b1dd-d7c6d5701896")
 	)
 	(wire
 		(pts
@@ -2341,6 +2335,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 39.37) (xy 166.37 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b25f64b1-f031-4026-9bea-31218c904073")
+	)
+	(wire
+		(pts
 			(xy 156.21 76.2) (xy 156.21 81.28)
 		)
 		(stroke
@@ -2358,16 +2362,6 @@
 			(type default)
 		)
 		(uuid "b7c6ad92-35dd-4f3b-8d28-e01b0e047c32")
-	)
-	(wire
-		(pts
-			(xy 124.46 39.37) (xy 166.37 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7d77a2f-650b-45e0-ab8e-426a827c6c23")
 	)
 	(wire
 		(pts
@@ -2421,16 +2415,6 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 62.23) (xy 124.46 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d06c5bdd-fee8-403f-92fa-1bcf35aef5ba")
-	)
-	(wire
-		(pts
 			(xy 113.03 52.07) (xy 113.03 60.96)
 		)
 		(stroke
@@ -2448,6 +2432,16 @@
 			(type default)
 		)
 		(uuid "d13dd877-71f3-4ac4-97a2-e49bf2beab7d")
+	)
+	(wire
+		(pts
+			(xy 120.65 106.68) (xy 135.89 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2d5c142-2e37-4bca-9814-06a90b042e46")
 	)
 	(wire
 		(pts
@@ -2511,6 +2505,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 46.99) (xy 137.16 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e019f024-4f95-4aa3-8837-9706c7979ca6")
+	)
+	(wire
+		(pts
 			(xy 166.37 53.34) (xy 166.37 54.61)
 		)
 		(stroke
@@ -2528,16 +2532,6 @@
 			(type default)
 		)
 		(uuid "e288b212-a79f-402d-9e2d-9bf3ed4ff036")
-	)
-	(wire
-		(pts
-			(xy 124.46 46.99) (xy 137.16 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e43f1fd1-3300-44f5-98b1-6c92245d3233")
 	)
 	(wire
 		(pts
@@ -2619,7 +2613,17 @@
 		)
 		(uuid "fd92badc-86a2-4216-8bb2-86bdc5d7e32b")
 	)
-	(global_label "MONO"
+	(wire
+		(pts
+			(xy 123.19 123.19) (xy 120.65 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe1a8645-a1e4-43db-be1e-f65dd757d42f")
+	)
+	(global_label "MONOL"
 		(shape input)
 		(at 189.23 78.74 0)
 		(fields_autoplaced yes)
@@ -2631,7 +2635,7 @@
 		)
 		(uuid "21b1d880-beef-4f7e-80fa-456a5aced6d8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 197.6581 78.74 0)
+			(at 198.6862 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2641,7 +2645,7 @@
 			)
 		)
 	)
-	(global_label "MONOL"
+	(global_label "MONO"
 		(shape input)
 		(at 189.23 81.28 0)
 		(fields_autoplaced yes)
@@ -2653,7 +2657,7 @@
 		)
 		(uuid "2d5933dd-3e99-4961-add0-efa27b8c4d1a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 198.6862 81.28 0)
+			(at 197.6581 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2888,7 +2892,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 111.252 45.72 90)
 			(effects
 				(font
@@ -2958,7 +2962,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical"
 			(at 161.29 125.73 0)
 			(effects
 				(font
@@ -3031,7 +3035,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm"
 			(at 120.3452 139.7 0)
 			(effects
 				(font
@@ -3101,7 +3105,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 159.512 111.76 90)
 			(effects
 				(font
@@ -3169,7 +3173,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 68.58 50.8 0)
 			(effects
 				(font
@@ -3239,7 +3243,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical"
 			(at 166.37 49.53 0)
 			(effects
 				(font
@@ -3286,7 +3290,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 124.46 38.1 0)
+		(at 123.19 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3295,7 +3299,7 @@
 		(fields_autoplaced yes)
 		(uuid "5ce975e8-e371-499b-a1e5-5c7555ca994f")
 		(property "Reference" "#PWR02"
-			(at 124.46 41.91 0)
+			(at 123.19 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3304,7 +3308,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 124.46 33.02 0)
+			(at 123.19 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3312,7 +3316,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 124.46 38.1 0)
+			(at 123.19 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3321,7 +3325,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 38.1 0)
+			(at 123.19 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3330,7 +3334,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 124.46 38.1 0)
+			(at 123.19 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3378,7 +3382,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
 			(at 158.75 67.31 0)
 			(effects
 				(font
@@ -3466,7 +3470,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_LongPads"
 			(at 157.48 128.27 0)
 			(effects
 				(font
@@ -3554,7 +3558,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D8.0mm"
 			(at 171.45 127 0)
 			(effects
 				(font
@@ -3624,7 +3628,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm"
 			(at 121.6152 72.39 0)
 			(effects
 				(font
@@ -3962,7 +3966,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 154.432 62.23 90)
 			(effects
 				(font
@@ -4032,7 +4036,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D8.0mm"
 			(at 156.21 72.39 0)
 			(effects
 				(font
@@ -4102,7 +4106,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm"
 			(at 167.3352 73.66 0)
 			(effects
 				(font
@@ -4172,7 +4176,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_Tantal_D4.5mm_P5.00mm"
 			(at 162.2552 139.7 0)
 			(effects
 				(font
@@ -4512,7 +4516,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 173.228 111.76 90)
 			(effects
 				(font
