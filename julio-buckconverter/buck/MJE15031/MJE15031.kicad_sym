@@ -1,0 +1,103 @@
+
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "MJE15031" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+    (property "Reference" "Q" (id 0) (at 2.54178 0.0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Value" "MJE15031" (id 1) (at 2.5453 -2.5453 0)
+      (effects (font (size 1.27 1.27)) (justify bottom left))
+    )
+    (property "Footprint" "MJE15031:TO254P1042X498X2993-3" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MF" "ON" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Description" "\nBipolar (BJT) Transistor PNP 150 V 8 A 30MHz 50 W Through Hole TO-220\n" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Package" "TO-220-3 ON" (id 6) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Price" "None" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Check_prices" "https://www.snapeda.com/parts/MJE15031/Onsemi/view-part/?ref=eda" (id 8) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "SnapEDA_Link" "https://www.snapeda.com/parts/MJE15031/Onsemi/view-part/?ref=snap" (id 9) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MP" "MJE15031" (id 10) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "Availability" "In Stock" (id 11) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (property "MANUFACTURER" "MULTICOMP" (id 12) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify bottom) hide)
+    )
+    (symbol "MJE15031_0_0"
+      (polyline
+        (pts (xy 0.0 2.54) (xy -1.778 1.651)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -1.778 1.651) (xy -2.032 1.524)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy 0.016 -2.548) (xy -2.232 -1.424)) (stroke (width 0.1524))
+      )
+      (rectangle (start -2.79777 -2.54342) (end -2.032 2.54)
+        (stroke (width 0.1)) (fill (type outline))
+      )
+      (polyline
+        (pts (xy -0.762 1.524) (xy -2.032 1.524)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -2.032 1.524) (xy -1.27 2.54)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -1.27 2.54) (xy -0.762 1.524)) (stroke (width 0.1524))
+      )
+      (polyline
+        (pts (xy -1.778 1.651) (xy -0.9652 1.6764)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -0.9652 1.6764) (xy -1.27 2.286)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.27 2.286) (xy -1.7018 1.778)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.7018 1.778) (xy -1.2446 1.9558)) (stroke (width 0.254))
+      )
+      (polyline
+        (pts (xy -1.2446 1.9558) (xy -1.2192 1.8034)) (stroke (width 0.254))
+      )
+      (pin passive line (at -5.08 0.0 0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "1"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 -5.08 90.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "2"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+      (pin passive line (at 0.0 5.08 270.0) (length 2.54)
+        (name "~"
+          (effects (font (size 1.016 1.016)))
+        )
+        (number "3"
+          (effects (font (size 1.016 1.016)))
+        )
+      )
+    )
+  )
+)
