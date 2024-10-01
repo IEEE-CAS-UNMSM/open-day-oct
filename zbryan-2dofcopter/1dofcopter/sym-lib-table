@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LCD2X16")(type "KiCad")(uri "${KIPRJMOD}/LCD2X16/LCD2X16.kicad_sym")(options "")(descr ""))
+  (lib (name "TL59NF160Q")(type "KiCad")(uri "${KIPRJMOD}/TL59NF160Q/TL59NF160Q.kicad_sym")(options "")(descr ""))
+)

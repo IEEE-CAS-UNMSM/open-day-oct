@@ -1,0 +1,337 @@
+Info: Procesando el símbolo 'C1:Capacitor_THT:CP_Radial_D4.0mm_P2.00mm'.
+Info: Procesando el símbolo 'C4:Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm'.
+Info: Procesando el símbolo 'R3:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'J1:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'J4:Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal'.
+Info: Procesando el símbolo 'J3:Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'C7:Capacitor_THT:CP_Radial_D10.0mm_P7.50mm'.
+Info: Procesando el símbolo 'C3:Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm'.
+Info: Procesando el símbolo 'J5:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'R1:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'C6:Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm'.
+Info: Procesando el símbolo 'R2:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'R6:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'C2:Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm'.
+Info: Procesando el símbolo 'R5:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'C5:Capacitor_THT:CP_Radial_D4.0mm_P2.00mm'.
+Info: Procesando el símbolo 'R4:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'R8:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'R7:Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal'.
+Info: Procesando el símbolo 'J2:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical'.
+Info: Procesando el símbolo 'RV1:Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Horizontal'.
+Info: Procesando el símbolo 'RV2:Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Horizontal'.
+Info: Procesando el símbolo 'RV3:Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical'.
+Info: Procesando el símbolo 'RV4:Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical'.
+Info: Procesando el símbolo 'U1:kicadplantillas:DIP254P762X533-16'.
+Se actualizó el nombre de la hoja C1 a 'Raíz'.
+Se actualizó el archivo de hoja C1 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de C1 a 'CP_*'.
+Agregar red Net-(U1-BIAS).
+C1 pin 1 conectado a Net-(U1-BIAS).
+Agregar red GND.
+C1 pin 2 conectado a GND.
+Agregado C2 (huella 'Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm').
+Indicador de referencia cambiado de REF** a C2.
+Valor C2 cambiado de C_Disc_D7.0mm_W2.5mm_P5.00mm a 100n.
+Asociación de símbolos C2 actualizada de  a /ce098eba-5157-45ca-bdfd-3bbfb9fcb3b9.
+Actualizar campos C2.
+Se actualizó el nombre de la hoja C2 a 'Raíz'.
+Se actualizó el archivo de hoja C2 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de C2 a 'C_*'.
+Agregar red Net-(J2-Pin_4).
+C2 pin 1 conectado a Net-(J2-Pin_4).
+Agregar red Net-(U1-TC2).
+C2 pin 2 conectado a Net-(U1-TC2).
+Agregado C3 (huella 'Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm').
+Indicador de referencia cambiado de REF** a C3.
+Valor C3 cambiado de C_Disc_D7.0mm_W2.5mm_P5.00mm a 1on.
+Asociación de símbolos C3 actualizada de  a /3604c5df-e2fe-4368-8f8e-5af24f8544fe.
+Actualizar campos C3.
+Se actualizó el nombre de la hoja C3 a 'Raíz'.
+Se actualizó el archivo de hoja C3 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de C3 a 'C_*'.
+Agregar red Net-(J2-Pin_6).
+C3 pin 1 conectado a Net-(J2-Pin_6).
+C3 pin 2 conectado a Net-(U1-TC2).
+Agregado C4 (huella 'Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm').
+Indicador de referencia cambiado de REF** a C4.
+Valor C4 cambiado de C_Disc_D7.0mm_W2.5mm_P5.00mm a 1u.
+Asociación de símbolos C4 actualizada de  a /2562887f-4750-4adb-a06d-d49afa42438c.
+Actualizar campos C4.
+Se actualizó el nombre de la hoja C4 a 'Raíz'.
+Se actualizó el archivo de hoja C4 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de C4 a 'C_*'.
+Agregar red Net-(J2-Pin_2).
+C4 pin 1 conectado a Net-(J2-Pin_2).
+C4 pin 2 conectado a Net-(U1-TC2).
+Agregado C5 (huella 'Capacitor_THT:CP_Radial_D4.0mm_P2.00mm').
+Indicador de referencia cambiado de REF** a C5.
+Valor C5 cambiado de CP_Radial_D4.0mm_P2.00mm a 10u.
+Asociación de símbolos C5 actualizada de  a /a437f571-032b-40e1-9f17-04061b6c4773.
+Actualizar campos C5.
+Se actualizó el nombre de la hoja C5 a 'Raíz'.
+Se actualizó el archivo de hoja C5 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de C5 a 'CP_*'.
+C5 pin 2 conectado a GND.
+Agregar red Net-(C5-Pad1).
+C5 pin 1 conectado a Net-(C5-Pad1).
+Agregado C6 (huella 'Capacitor_THT:C_Disc_D7.0mm_W2.5mm_P5.00mm').
+Indicador de referencia cambiado de REF** a C6.
+Valor C6 cambiado de C_Disc_D7.0mm_W2.5mm_P5.00mm a 100n.
+Asociación de símbolos C6 actualizada de  a /1180c75f-a2ab-418c-a07f-8cae8f5a3498.
+Actualizar campos C6.
+Se actualizó el nombre de la hoja C6 a 'Raíz'.
+Se actualizó el archivo de hoja C6 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de C6 a 'C_*'.
+Agregar red VCC.
+C6 pin 2 conectado a VCC.
+C6 pin 1 conectado a GND.
+Agregado C7 (huella 'Capacitor_THT:CP_Radial_D10.0mm_P7.50mm').
+Indicador de referencia cambiado de REF** a C7.
+Valor C7 cambiado de CP_Radial_D10.0mm_P7.50mm a 470 u.
+Asociación de símbolos C7 actualizada de  a /a504f234-7b8a-43d4-9a6f-2d79fb624cb7.
+Actualizar campos C7.
+Se actualizó el nombre de la hoja C7 a 'Raíz'.
+Se actualizó el archivo de hoja C7 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de C7 a 'CP_*'.
+C7 pin 1 conectado a VCC.
+C7 pin 2 conectado a GND.
+Agregado J1 (huella 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Indicador de referencia cambiado de REF** a J1.
+Valor J1 cambiado de PinHeader_1x02_P2.54mm_Vertical a Conn_02x01_Row_Letter_Last.
+Asociación de símbolos J1 actualizada de  a /6795fd06-3ad5-433e-bfeb-eb2609172478.
+Actualizar campos J1.
+Se actualizó el nombre de la hoja J1 a 'Raíz'.
+Se actualizó el archivo de hoja J1 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de J1 a 'Connector*:*_2x??_*'.
+Agregado J2 (huella 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Indicador de referencia cambiado de REF** a J2.
+Valor J2 cambiado de PinHeader_1x02_P2.54mm_Vertical a Conn_02x03_Odd_Even.
+Asociación de símbolos J2 actualizada de  a /983313ed-e354-4df5-8b90-37a308c72ee0.
+Actualizar campos J2.
+Se actualizó el nombre de la hoja J2 a 'Raíz'.
+Se actualizó el archivo de hoja J2 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de J2 a 'Connector*:*_2x??_*'.
+J2 pin 2 conectado a Net-(J2-Pin_2).
+Agregar red Net-(J2-Pin_1).
+J2 pin 1 conectado a Net-(J2-Pin_1).
+Agregado J3 (huella 'Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical').
+Indicador de referencia cambiado de REF** a J3.
+Valor J3 cambiado de PinHeader_2x03_P2.54mm_Vertical a Conn_01x02.
+Asociación de símbolos J3 actualizada de  a /595116f7-619c-4235-8f80-10abeaf32d34.
+Actualizar campos J3.
+Se actualizó el nombre de la hoja J3 a 'Raíz'.
+Se actualizó el archivo de hoja J3 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de J3 a 'Connector*:*_1x??_*'.
+Agregar red Net-(J3-Pin_1).
+J3 pin 1 conectado a Net-(J3-Pin_1).
+J3 pin 2 conectado a GND.
+Agregado J4 (huella 'Connector_Coaxial:BNC_Amphenol_B6252HB-NPP3G-50_Horizontal').
+Indicador de referencia cambiado de REF** a J4.
+Valor J4 cambiado de BNC_Amphenol_B6252HB-NPP3G-50_Horizontal a Conn_Coaxial_Power.
+Asociación de símbolos J4 actualizada de  a /e64622d4-9a52-472c-92d3-b5eb564980ce.
+Actualizar campos J4.
+Se actualizó el nombre de la hoja J4 a 'Raíz'.
+Se actualizó el archivo de hoja J4 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de J4 a '*BNC* *SMA* *SMB* *SMC* *Cinch* *LEMO*'.
+Agregar red unconnected-(J4-Ext-Pad2).
+J4 pin 2 conectado a unconnected-(J4-Ext-Pad2).
+J4 pin 1 conectado a GND.
+Agregar red unconnected-(J4-Ext-Pad2)_1.
+J4 pin 2 conectado a unconnected-(J4-Ext-Pad2)_1.
+Agregar red unconnected-(J4-Ext-Pad2)_2.
+J4 pin 2 conectado a unconnected-(J4-Ext-Pad2)_2.
+Agregado J5 (huella 'Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical').
+Indicador de referencia cambiado de REF** a J5.
+Valor J5 cambiado de PinSocket_1x02_P2.54mm_Vertical a Conn_01x02_Socket.
+Asociación de símbolos J5 actualizada de  a /d30275df-1095-44e4-a79d-5e6cc48ad8fb.
+Actualizar campos J5.
+Se actualizó el nombre de la hoja J5 a 'Raíz'.
+Se actualizó el archivo de hoja J5 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de J5 a 'Connector*:*_1x??_*'.
+J5 pin 1 conectado a VCC.
+J5 pin 2 conectado a GND.
+Agregado R1 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Indicador de referencia cambiado de REF** a R1.
+Valor R1 cambiado de R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal a 10k.
+Asociación de símbolos R1 actualizada de  a /c0561f8f-2d03-4054-8f1e-deb6cad34b79.
+Actualizar campos R1.
+Se actualizó el nombre de la hoja R1 a 'Raíz'.
+Se actualizó el archivo de hoja R1 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de R1 a 'R_*'.
+R1 pin 1 conectado a VCC.
+R1 pin 2 conectado a Net-(J3-Pin_1).
+Agregado R2 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Indicador de referencia cambiado de REF** a R2.
+Valor R2 cambiado de R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal a 10R.
+Asociación de símbolos R2 actualizada de  a /e9b3a6e8-9cbd-4c49-b114-4cc5fc31370b.
+Actualizar campos R2.
+Se actualizó el nombre de la hoja R2 a 'Raíz'.
+Se actualizó el archivo de hoja R2 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de R2 a 'R_*'.
+Agregar red Net-(U1-MO).
+R2 pin 1 conectado a Net-(U1-MO).
+Agregar red Net-(R2-Pad2).
+R2 pin 2 conectado a Net-(R2-Pad2).
+Agregado R3 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Indicador de referencia cambiado de REF** a R3.
+Valor R3 cambiado de R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal a 10k.
+Asociación de símbolos R3 actualizada de  a /5cea7d53-2889-47a8-86f7-f46d443e6148.
+Actualizar campos R3.
+Se actualizó el nombre de la hoja R3 a 'Raíz'.
+Se actualizó el archivo de hoja R3 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de R3 a 'R_*'.
+R3 pin 1 conectado a VCC.
+R3 pin 2 conectado a Net-(C5-Pad1).
+Agregado R4 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Indicador de referencia cambiado de REF** a R4.
+Valor R4 cambiado de R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal a 10k.
+Asociación de símbolos R4 actualizada de  a /a29aa3ad-7f89-45a1-a1cf-9fdb8b1eeb76.
+Actualizar campos R4.
+Se actualizó el nombre de la hoja R4 a 'Raíz'.
+Se actualizó el archivo de hoja R4 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de R4 a 'R_*'.
+R4 pin 2 conectado a GND.
+R4 pin 1 conectado a Net-(C5-Pad1).
+Agregado R5 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Indicador de referencia cambiado de REF** a R5.
+Valor R5 cambiado de R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal a 3k3.
+Asociación de símbolos R5 actualizada de  a /561f64c9-ec89-4813-8210-3c4f71e8c0ce.
+Actualizar campos R5.
+Se actualizó el nombre de la hoja R5 a 'Raíz'.
+Se actualizó el archivo de hoja R5 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de R5 a 'R_*'.
+Agregar red Net-(U1-TR1).
+R5 pin 1 conectado a Net-(U1-TR1).
+Agregar red Net-(R5-Pad2).
+R5 pin 2 conectado a Net-(R5-Pad2).
+Agregado R6 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Indicador de referencia cambiado de REF** a R6.
+Valor R6 cambiado de R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal a 1k.
+Asociación de símbolos R6 actualizada de  a /94aca177-4af0-4584-a0f5-88b272a906b2.
+Actualizar campos R6.
+Se actualizó el nombre de la hoja R6 a 'Raíz'.
+Se actualizó el archivo de hoja R6 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de R6 a 'R_*'.
+Agregar red Net-(R6-Pad1).
+R6 pin 1 conectado a Net-(R6-Pad1).
+R6 pin 2 conectado a GND.
+Agregado R7 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Indicador de referencia cambiado de REF** a R7.
+Valor R7 cambiado de R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal a 100.
+Asociación de símbolos R7 actualizada de  a /09e17644-9f35-4784-9323-1c3831a495b8.
+Actualizar campos R7.
+Se actualizó el nombre de la hoja R7 a 'Raíz'.
+Se actualizó el archivo de hoja R7 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de R7 a 'R_*'.
+Agregar red Net-(U1-STO).
+R7 pin 1 conectado a Net-(U1-STO).
+R7 pin 2 conectado a GND.
+Agregado R8 (huella 'Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal').
+Indicador de referencia cambiado de REF** a R8.
+Valor R8 cambiado de R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal a 100.
+Asociación de símbolos R8 actualizada de  a /360f7db6-6b9d-4284-9b11-c8bd3103d360.
+Actualizar campos R8.
+Se actualizó el nombre de la hoja R8 a 'Raíz'.
+Se actualizó el archivo de hoja R8 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de R8 a 'R_*'.
+R8 pin 1 conectado a Net-(U1-STO).
+R8 pin 2 conectado a GND.
+Agregado C1 (huella 'Capacitor_THT:CP_Radial_D4.0mm_P2.00mm').
+Agregado RV1 (huella 'Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Horizontal').
+Indicador de referencia cambiado de REF** a RV1.
+Valor RV1 cambiado de Potentiometer_Alps_RK09K_Single_Horizontal a 10k.
+Asociación de símbolos RV1 actualizada de  a /dc69b379-5181-4ea3-947e-955906ab5708.
+Actualizar campos RV1.
+Se actualizó el nombre de la hoja RV1 a 'Raíz'.
+Se actualizó el archivo de hoja RV1 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de RV1 a 'Potentiometer*'.
+RV1 pin 2 conectado a Net-(R2-Pad2).
+RV1 pin 3 conectado a Net-(C5-Pad1).
+RV1 pin 1 conectado a Net-(R2-Pad2).
+Indicador de referencia cambiado de REF** a C1.
+Agregado RV2 (huella 'Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Horizontal').
+Indicador de referencia cambiado de REF** a RV2.
+Valor RV2 cambiado de Potentiometer_Alps_RK09K_Single_Horizontal a 100k.
+Asociación de símbolos RV2 actualizada de  a /5dfa5f5d-121a-4f9e-adaf-2cab0b51132a.
+Actualizar campos RV2.
+Se actualizó el nombre de la hoja RV2 a 'Raíz'.
+Se actualizó el archivo de hoja RV2 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de RV2 a 'Potentiometer*'.
+RV2 pin 2 conectado a GND.
+RV2 pin 3 conectado a GND.
+RV2 pin 1 conectado a Net-(R5-Pad2).
+Valor C1 cambiado de CP_Radial_D4.0mm_P2.00mm a 1u.
+Agregado RV3 (huella 'Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical').
+Indicador de referencia cambiado de REF** a RV3.
+Valor RV3 cambiado de Potentiometer_Bourns_3266Y_Vertical a 25k.
+Asociación de símbolos RV3 actualizada de  a /6ed5278c-aadf-4a0c-9258-ad79f74adbe0.
+Actualizar campos RV3.
+Se actualizó el nombre de la hoja RV3 a 'Raíz'.
+Se actualizó el archivo de hoja RV3 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de RV3 a 'Potentiometer*'.
+Agregar red Net-(U1-SYMA1).
+RV3 pin 3 conectado a Net-(U1-SYMA1).
+RV3 pin 2 conectado a Net-(R6-Pad1).
+Agregar red Net-(U1-SYMA2).
+RV3 pin 1 conectado a Net-(U1-SYMA2).
+Asociación de símbolos C1 actualizada de  a /79ff8ece-59aa-4041-9652-dacf66692476.
+Agregado RV4 (huella 'Potentiometer_THT:Potentiometer_Bourns_3266Y_Vertical').
+Indicador de referencia cambiado de REF** a RV4.
+Valor RV4 cambiado de Potentiometer_Bourns_3266Y_Vertical a 500R.
+Asociación de símbolos RV4 actualizada de  a /b8bc6daa-ba1f-4b45-8ed6-a0779beeadf6.
+Actualizar campos RV4.
+Se actualizó el nombre de la hoja RV4 a 'Raíz'.
+Se actualizó el archivo de hoja RV4 a 'Generador de funciones.kicad_sch'.
+Se actualizaron los filtros de huella de RV4 a 'Potentiometer*'.
+Agregar red Net-(U1-WAVEA1).
+RV4 pin 2 conectado a Net-(U1-WAVEA1).
+RV4 pin 1 conectado a Net-(U1-WAVEA1).
+Agregar red Net-(J1-Pin_1a).
+RV4 pin 3 conectado a Net-(J1-Pin_1a).
+Actualizar campos C1.
+Agregado U1 (huella 'kicadplantillas:DIP254P762X533-16').
+Indicador de referencia cambiado de REF** a U1.
+Valor U1 cambiado de DIP254P762X533-16 a XR2206CP-F.
+Asociación de símbolos U1 actualizada de  a /9dbd0eea-f7b8-4416-81b0-0ab2a9034809.
+Actualizar campos U1.
+Se actualizó el nombre de la hoja U1 a 'Raíz'.
+Se actualizó el archivo de hoja U1 a 'Generador de funciones.kicad_sch'.
+U1 pin 1 conectado a GND.
+U1 pin 5 conectado a Net-(J2-Pin_1).
+U1 pin 7 conectado a Net-(U1-TR1).
+U1 pin 11 conectado a Net-(J3-Pin_1).
+Agregar red unconnected-(U1-TR2-Pad8).
+U1 pin 8 conectado a unconnected-(U1-TR2-Pad8).
+U1 pin 13 conectado a Net-(U1-WAVEA1).
+Agregar red unconnected-(U1-FSKI-Pad9).
+U1 pin 9 conectado a unconnected-(U1-FSKI-Pad9).
+U1 pin 4 conectado a VCC.
+U1 pin 6 conectado a Net-(U1-TC2).
+U1 pin 2 conectado a Net-(U1-STO).
+U1 pin 12 conectado a GND.
+U1 pin 10 conectado a Net-(U1-BIAS).
+U1 pin 15 conectado a Net-(U1-SYMA1).
+U1 pin 16 conectado a Net-(U1-SYMA2).
+U1 pin 3 conectado a Net-(U1-MO).
+Agregar red Net-(J1-Pin_1b).
+U1 pin 14 conectado a Net-(J1-Pin_1b).
+Aviso: No se encontró red para el componente RV2 pad MP (no hay pin MP en el símbolo).
+Aviso: No se encontró red para el componente J1 pad 2 (no hay pin 2 en el símbolo).
+Aviso: No se encontró red para el componente J3 pad 5 (no hay pin 5 en el símbolo).
+Aviso: No se encontró red para el componente J3 pad 6 (no hay pin 6 en el símbolo).
+Aviso: No se encontró red para el componente RV2 pad MP (no hay pin MP en el símbolo).
+Aviso: No se encontró red para el componente RV1 pad MP (no hay pin MP en el símbolo).
+Aviso: No se encontró red para el componente J3 pad 3 (no hay pin 3 en el símbolo).
+Aviso: No se encontró red para el componente RV1 pad MP (no hay pin MP en el símbolo).
+Aviso: No se encontró red para el componente J1 pad 1 (no hay pin 1 en el símbolo).
+Aviso: No se encontró red para el componente J3 pad 4 (no hay pin 4 en el símbolo).
+Error: No se ha encontrado J1 pad 1a en Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical.
+Error: No se ha encontrado J1 pad 1b en Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical.
+Error: No se ha encontrado J2 pad 3 en Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical.
+Error: No se ha encontrado J2 pad 5 en Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical.
+Error: No se ha encontrado J2 pad 4 en Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical.
+Error: No se ha encontrado J2 pad 6 en Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical.
+
+
+Info: Número de avisos: 10, errores: 6.
